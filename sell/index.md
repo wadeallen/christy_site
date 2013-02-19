@@ -26,13 +26,13 @@ While it may be a smart move to make a few improvements, don't overdo it. You wa
 
 For the most part, real estate experts agree that new kitchen countertops and appliances, bathroom remodels and energy-saving improvements will pay off in the long run (read below in “What Might I Consider Doing?”). On the other hand, pros point out that the following upgrades are *not* worth your time and money.
 
-- Over-the-Top Improvements
+- **Over-the-Top Improvements**  
     Before considering elaborate full-house renovations, consider competing properties in your neighborhood. You don't want to overbuild your home. Improvements that place your home in top tier of your neighborhood are unwise.
-- A Swimming Pool
-    Believe it or not, a swimming pool rarely adds value to a home. First of all, it is costly to have an in-ground swimming pool installed.Secondly, many homebuyers view an in-ground swimming pool as a high-maintenance hassle and safety hazard.
-- Enclosed Garage
+- **A Swimming Pool**  
+    Believe it or not, a swimming pool rarely adds value to a home. First of all, it is costly to have an in-ground swimming pool installed. Secondly, many homebuyers view an in-ground swimming pool as a high-maintenance hassle and safety hazard.
+- **Enclosed Garage**  
     Before converting your garage into a game room, take a look around. If every other home in your neighborhood boasts a two-car garage, you should probably think twice. Most home buyers would prefer to have a sheltered place to park their car than a room to play ping pong and darts.
-- Daring Design
+- **Daring Design**  
     Decorating your home so that it reflects your unique style is natural. However, if you're trying to sell your home, now is not the time to incorporate bold design choices into the décor. 
 
 *Information From Investopedia*
@@ -41,17 +41,17 @@ For the most part, real estate experts agree that new kitchen countertops and ap
 
 To make the most of your prepatory projects, it pays to keep three types in mind:
 
-1. The Basics  
+1. **The Basics**   
     The basics are the things that buyers expect when they purchase a home. This includes a roof that doesn't leak, functioning gutters and downspouts, a dry basement, a good furnace, solid floors, walls that are in good repair, retaining walls that work and all of the other common-sense items that you expect to find in a home.
 
 	In upscale properties, this includes air conditioning, a certain number of bedrooms, bathrooms and garages, and any other amenities that are common to the neighborhood.
 
 	Adding these items to a lacking home doesn't add value, it only brings the property up to standard level. Homes are compared to other homes in the area. Money spent on these items is unlikely to be recovered, but will aid the home selling for a price comparable to other homes in the area.
 
-2. Curb Appeal
-	Project that add to curb appeal will go a long way with buyers. While these projects may not add a considerable amount of monetary value, they will improve the chances for a quick sell. Curb appeal items include a nice green lawn, attractive landscaping, fresh paint (inside and out), new carpet and new appliances. Simple tasks such as baking an apple pie just before the arrival of a prospective buyer is an easy way to create a warm, inviting atmosphere. 
+2. **Curb Appeal**  
+	Projects that add to curb appeal will go a long way with buyers. While these projects may not add a considerable amount of monetary value, they will improve the chances for a quick sell. Curb appeal items include a nice green lawn, attractive landscaping, fresh paint (inside and out), new carpet and new appliances. Simple tasks such as baking cookies just before the arrival of a prospective buyer is an easy way to create a warm, inviting atmosphere. 
 
-3. Projects that Add Value
+3. **Projects that Add Value**  
 	Projects that offer the most bang for the buck include new siding, kitchen remodeling, bathroom remodeling, new windows, decks and the addition of living space. The National Association of Realtors cites siding, kitchens and windows as some of the most beneficial projects, often recouping 80% or more of their costs during resale.
  
 >If you plan to live in your home for many years to come, add amenities that you want regardless of their impact on resale. But when it's time to sell, do the basics to get the property up to par for the neighborhood and add some curb appeal, but don't bother undertaking an extensive array of projects strictly in an effort to increase the value of the property. Even with the projects that are known to add value, the chances are good that you will spend far more money than you will get back in return. -- *Lisa Smith with investopedia*
@@ -68,19 +68,19 @@ To make the most of your prepatory projects, it pays to keep three types in mind
 
 For my clients, I offer staging as a complimentary perk. My Interior Design degree provides expertise in this field. I will assess your home and offer viable suggestions that may include:
 
-- **Painting**
+- **Painting**  
 	Neutrals are good, but foyers are a place we can use a nice color. Paint can be an inexpensive way to brighten up a home.
-- **Declutter**
+- **Declutter**  
 	Before pictures are taken, it is important to eliminate clutter. A decluttered home promotes possibilities in the eyes of the buyer. Pack up unnecessary items and furniture.
-- **Highlighting Storage Space**
+- **Highlighting Storage Space**  
 	Storage space sells. Clean and organized closets give the impression of lots of storage.
-- **Eliminate Odors**
+- **Eliminate Odors**  
 	Pet odors need to be eliminated.
-- **Rooms with a Purpose**
+- **Rooms with a Purpose**  
 	Each room should be decorated for its purpose. Buyers want to know if it’s an office, bedroom, dining room. Be sure to furnish appropriately. Master bedroom should be appealing to both sexes.
-- **Creating Flow**
+- **Creating Flow**  
 	Arranging furniture for adequate space is essential. At the same time, positioning pieces so that each room flows will make the house seem larger.
-- **Bathrooms and Kitchens**
+- **Bathrooms and Kitchens**  
 	Immaculate and up to date bathrooms and kitchens can be determining factors for a potential buyer. Certainly, updates should be appropiate to your budget.
 
 ## What Steps Do I Take To List My Home?

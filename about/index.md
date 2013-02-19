@@ -7,9 +7,9 @@ title: About Christy
 
 Thanks for visiting my Web site. I’d like to introduce myself to you.  My **training**, as well as **life experiences**, have prepared me for success in helping my clients:
 
-- Earning a Bachelor of Science degree in Human Ecology from [Liberty University](http://www.liberty.edu/), with a minor in Interior Design has equipped me with fundmental knowledge regarding human environments.
+- Earning a Bachelor of Science degree in Human Ecology from [Liberty University](http://www.liberty.edu/), with a minor in Interior Design has equipped me with fundamental knowledge regarding human environments.
 - Personally relocating several times in my life has aided my understanding of the ins and outs of moving to a new city. 
-- Selling and buying 3-4 personal homes allows me to undertand Real Estate transactions from each side.
+- Selling and buying 3-4 personal homes allows me to understand Real Estate transactions from each side.
 - Serving with my husband in ministry since 1994 has created an adeptness for working with people. Understanding different personality types is an important factor in negotiating transactions.
 - A love for people and a love for human environments drives my career as a Realtor. Helping families find a home that suits their needs is rewarding. At the same time, helping sellers capitalize on one of their most valuable assets can prove to be vital as they relocate. 
 - I am a mother to three. My children have taught me about human nature, patience and fulfilling goals.
