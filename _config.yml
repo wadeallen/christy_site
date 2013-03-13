@@ -1,4 +1,6 @@
 markdown: rdiscount
 pygments: true
 
+permalink: /:categories/:title
+
 MY_URL: christyallen.me
