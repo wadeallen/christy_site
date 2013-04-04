@@ -3,6 +3,8 @@ layout: about
 title: About Christy
 ---
 
+*"We shape our dwellings, and afterwards our dwellings shape us" - Winston Churchill*
+
 ## Training and Life Experiences
 
 Thanks for visiting my Web site. I’d like to introduce myself to you.  My **training**, as well as **life experiences**, have prepared me for success in helping my clients:
