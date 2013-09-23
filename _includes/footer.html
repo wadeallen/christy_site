@@ -1,80 +1,15 @@
-<!-- Begin Footer -->
-  <div class="footer-wrapper">
-    <div class="footer"> 
-      <!-- Begin Widget -->
-      <div class="sidebox">
-        <h3>Recent Listings</h3>
 
- 
-        <ul class="posts-list">
-        {% for post in site.categories.listings limit:3  %} 
-
-          <li> <a href="{{ post.url }}"><img src="http://christyallen.me/listings/images/{{ post.mls_number }}_small.jpg" alt="" /></a>
-            <h6><a href="{{ post.url }}">{{post.title}}</a></h6>
-            <span>{{ post.city }}</span><br/> <span>${{ post.price }}</span> </li>
-             {% endfor %}
-        </ul>
-        
-
-      </div>
-      <!-- End Widget --> 
-      
- {% include twitter.html %}
-
-      <!-- Begin Widget -->
-      <div class="sidebox">
-        <h3>Contact</h3>
-        <!-- Begin Form -->
-        <div class="form-container">
-          <div class="response"></div>
-          <form class="forms" action="/contact/form-handler.php" method="post">
-            <fieldset>
-              <ol>
-                <li class="form-row text-input-row">
-                  <input type="text" name="name" class="text-input" title="Name"/>
-                </li>
-                <li class="form-row text-input-row">
-                  <input type="text" name="email" class="text-input required email" title="Email"/>
-                </li>
-                <li class="form-row text-area-row">
-                  <textarea name="message" class="text-area required"></textarea>
-                </li>
-                <li class="form-row hidden-row">
-                  <input type="hidden" name="hidden" value="" />
-                </li>
-                <li class="button-row">
-                  <input type="submit" value="Submit" name="submit" class="btn-submit" />
-                </li>
-              </ol>
-              <input type="hidden" name="v_error" id="v-error" value="Required" />
-              <input type="hidden" name="v_email" id="v-email" value="Enter a valid email" />
-            </fieldset>
-          </form>
-        </div>
-        <!-- End Form --> 
-      </div>
-      <!-- End Widget --> 
-    </div>
-  </div>
-  <!-- End Footer -->
+  
   <div class="push"></div>
 </div>
 <!-- End Body Wrapper --> 
 <!-- Begin Bottom Section -->
 <div class="bottom-wrapper">
-  <div class="bottom" itemscope itemtype="http://data-vocabulary.org/Organization">
-    <p>© 2013 <span itemprop="name">Christy Allen</span> <span itemprop="tel"> 765-717-5229</span> </p>
+  <div class="bottom">
+    <p>© 2013 Christy Allen</p>
     <a href="#top" class="scroll-top" title="Go to top"></a> </div>
 </div>
 <!--End Bottom Section --> 
-<script type="text/javascript">
-$(document).ready(function() {
-  $('#zetaSlider').zetaSlider({
-    warningMessage:true,
-    warningMessageTimeout:4000
-  });
-});
-</script> 
-<script type="text/javascript" src="/style/js/scripts.js"></script>
+<script type="text/javascript" src="style/js/scripts.js"></script>
 </body>
 </html>
